@@ -1,0 +1,1 @@
+export{r as CanvasRenderer}from"./renderer-Dk3I1pfw.js";
